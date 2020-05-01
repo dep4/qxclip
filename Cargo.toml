@@ -1,0 +1,6 @@
+[package]
+name = "qxclip"
+version = "0.0.1"
+
+[dependencies]
+x11-clipboard="0.5.1"
